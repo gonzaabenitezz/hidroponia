@@ -94,6 +94,7 @@ Cronograma para la construcción e instalación del sistema.
 Capacitación del personal encargado del mantenimiento y operación del sistema.
 
 ####Propuesta Técnica:
+
 ######  Diseño del Sistema
 - Diseño modular y escalable para adaptarse a diferentes tamaños de cultivo.
 - Utilización de contenedores apilables para maximizar el uso del espacio.
