@@ -1,7 +1,9 @@
 # Cultivo de Lechugas en Sistema Hidropónico
 
 #### Descripción del proyecto
-El cultivo de lechugas en un sistema hidropónico que ofrece una alternativa eficiente y sostenible para la producción de vegetales frescos y saludables. Este proyecto se enfoca en establecer un sistema de cultivo que garantice la calidad y la eficiencia en la producción de lechugas, aprovechando al máximo los recursos disponibles con un mayor ahorro de agua y control de nutrientes que permitirá verificar más rápido los inconvenientes de crecimiento de las plantas u otros problemas que pueda llegar a tener.
+El cultivo de lechugas en un sistema hidropónico que ofrece una alternativa eficiente y sostenible para la producción de vegetales frescos y saludables. Este proyecto se enfoca en establecer un sistema de cultivo que garantice la calidad y la eficiencia en la producción de lechugas, aprovechando al máximo los recursos disponibles con un mayor ahorro de agua y control de nutrientes que permitirá verificar más rápido los inconvenientes de crecimiento de las plantas u otros problemas que pueda llegar a tener domde En lugar de utilizar suelo como sustrato, las lechugas se cultivan en un sistema donde las raíces están suspendidas en una solución nutritiva de agua y minerales. Esto permite un mayor control sobre el entorno de crecimiento de las plantas.
+
+
 
 #### Objetivo
 El objetivo principal del proyecto es diseñar, implementar y evaluar un sistema hidropónico sostenible que permita la producción efectiva y control de los vegetales frescos utilizando como material principal del proyecto un microcontrolador, con esto se busca demostrar la viabilidad y las ventajas de la hidroponía en comparación con los métodos de cultivo tradicionales, especialmente en términos de uso eficiente del agua y los nutrientes, así como la capacidad de producción en espacios reducidos
